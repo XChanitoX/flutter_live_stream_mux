@@ -1,0 +1,27 @@
+name: flutter_live_stream_mux
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  video_stream: ^0.0.1
+  video_player: ^2.3.0
+  wakelock: ^0.6.1+2
+  firebase_core: ^1.13.1
+  cloud_functions: ^3.2.10
+  intl: ^0.17.0
+  font_awesome_flutter: ^9.2.0
+  permission_handler: ^9.2.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
