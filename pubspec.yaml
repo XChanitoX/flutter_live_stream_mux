@@ -10,7 +10,7 @@ dependencies:
   video_stream: ^0.0.1
   video_player: ^2.3.0
   wakelock: ^0.6.1+2
-  firebase_core: ^1.13.1
+  firebase_core: ^1.24.0
   cloud_functions: ^3.2.10
   intl: ^0.17.0
   font_awesome_flutter: ^9.2.0
