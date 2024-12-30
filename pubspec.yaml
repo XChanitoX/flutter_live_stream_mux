@@ -4,7 +4,7 @@ publish_to: 'none'
 version: 0.1.0
 
 environment:
-  sdk: ^3.5.4
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   video_stream: ^0.0.1
